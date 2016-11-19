@@ -11,4 +11,4 @@
                    @"id = 5"
                    @"id = 6"
                    )
-                 @"and i in #[v] and")))
+                 @"and i in #[v] and active = true")))
